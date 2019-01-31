@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Slu HPC Website</title>
-    <link>/research-computing-group/</link>
+    <link>/hpc-web-test/</link>
     <description>Recent content on Slu HPC Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 25 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/research-computing-group/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/hpc-web-test/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>FTP</title>
-      <link>/research-computing-group/getting-started/ftp/</link>
+      <link>/hpc-web-test/getting-started/ftp/</link>
       <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/research-computing-group/getting-started/ftp/</guid>
+      <guid>/hpc-web-test/getting-started/ftp/</guid>
       <description>File Transfer Protocol (FTP) is a standard network protocol used to copy a file from one host to another over a TCP/IP-based network, such as the Internet. FTP is built on a client-server architecture and utilizes separate control and data connections between the client and server. FTP users may authenticate themselves using a clear-text sign-in protocol, but they can connect anonymously if the server is configured to allow it.
 One of the easiest FTP applications to use if FileZilla.</description>
     </item>
     
     <item>
       <title>SSH</title>
-      <link>/research-computing-group/getting-started/ssh/</link>
+      <link>/hpc-web-test/getting-started/ssh/</link>
       <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/research-computing-group/getting-started/ssh/</guid>
+      <guid>/hpc-web-test/getting-started/ssh/</guid>
       <description>SSH is a secure protocol that allows you to connect to a remote system. In order to access a HPC cluster from off-campus, you will need Billiken Secure Connect VPN account. More information can be found here BIlliken Secure Connect (VPN).
 Note: There is also a graphical user interface that can be used with the cluster. See the VNC section for more information.
 Common Linux Commands
@@ -34,10 +34,10 @@ Once you have logged into an HPC, you are communicating to a completely text-bas
     
     <item>
       <title>VPN</title>
-      <link>/research-computing-group/getting-started/vpn/</link>
+      <link>/hpc-web-test/getting-started/vpn/</link>
       <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/research-computing-group/getting-started/vpn/</guid>
+      <guid>/hpc-web-test/getting-started/vpn/</guid>
       <description>VPN stands for virtual private network. This allows you to make a securely connect to campus resources when you are not on campus.
 In order to access the HPC cluster off campus, you will need a Billiken Secure Connect VPN account.
 VPN information and account request can be found here Billiken VPN.
@@ -46,20 +46,20 @@ Note: In order to get a student account, permission will be needed from the depa
     
     <item>
       <title>VNC</title>
-      <link>/research-computing-group/getting-started/vnc/</link>
+      <link>/hpc-web-test/getting-started/vnc/</link>
       <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/research-computing-group/getting-started/vnc/</guid>
+      <guid>/hpc-web-test/getting-started/vnc/</guid>
       <description>VNC allows you to use the cluster with a graphical user interface. Detailed information can be found on Wikipedia VNC page.
 Before you can use VNC you will need to set up a VNC session on the head node. All VNC sessions also require a ssh tunnel. This is for security purposes. The TightVNC Client will create the tunnel and VNC login in one step. Instructions for this are below.</description>
     </item>
     
     <item>
       <title>VNC Subpage</title>
-      <link>/research-computing-group/getting-started/vnc_subpage/</link>
+      <link>/hpc-web-test/getting-started/vnc_subpage/</link>
       <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/research-computing-group/getting-started/vnc_subpage/</guid>
+      <guid>/hpc-web-test/getting-started/vnc_subpage/</guid>
       <description>VNC allows you to use a graphical user interface on the cluster.
 See the following VNC documentation for basic setup. There are a few additional steps that will need to be completed to set up VNC.
 If you want to use VNC, you will first need to do the following.
@@ -68,20 +68,20 @@ If you want to use VNC, you will first need to do the following.
     
     <item>
       <title>SLURM Examples</title>
-      <link>/research-computing-group/slurm/slurm-examples/</link>
+      <link>/hpc-web-test/slurm/slurm-examples/</link>
       <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/research-computing-group/slurm/slurm-examples/</guid>
+      <guid>/hpc-web-test/slurm/slurm-examples/</guid>
       <description>Submission script examples Here are some quick sample submission scripts. For more detailed information, make sure to have a look at the Slurm FAQ and to follow our training sessions. There is also Script Generation Wizard you can use to help you in submission scripts creation.
 Message passing example (MPI) #!/bin/bash # #SBATCH --job-name=test_mpi #SBATCH --output=res_mpi.txt # #SBATCH --ntasks=4 #SBATCH --time=10:00 module load openmpi mpirun hello.mpi  Request four cores on the cluster for 10 minutes, using 100 MB of RAM per core.</description>
     </item>
     
     <item>
       <title>APEX</title>
-      <link>/research-computing-group/apex/apex/</link>
+      <link>/hpc-web-test/apex/apex/</link>
       <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/research-computing-group/apex/apex/</guid>
+      <guid>/hpc-web-test/apex/apex/</guid>
       <description>Please see the Getting Started page if you are new to the HPC. This will explain how to connect to the cluster and the applications needed for this.
 Note: Please also see the Bright Cluster Manager 7.2 Manual for detailed information on how to use Apex.
 We are in the process of moving resources from Kepler to Apex. Updates on apex include:
@@ -91,20 +91,20 @@ We are in the process of moving resources from Kepler to Apex. Updates on apex i
     
     <item>
       <title>Application Installation</title>
-      <link>/research-computing-group/support/application-installation/</link>
+      <link>/hpc-web-test/support/application-installation/</link>
       <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/research-computing-group/support/application-installation/</guid>
+      <guid>/hpc-web-test/support/application-installation/</guid>
       <description>Application Installation Applications can be installed in your home directory. Your home directory is stored on a network share. So, that application is able to run on individual nodes. We can also install applications and environment modules for them. This will allow anyone on the cluster to use the application without having to install it. Documentation for using environment modules is below.
 Environment Modules We are using Environment Modules Package on Kepler.</description>
     </item>
     
     <item>
       <title>Compilers</title>
-      <link>/research-computing-group/support/compilers/</link>
+      <link>/hpc-web-test/support/compilers/</link>
       <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/research-computing-group/support/compilers/</guid>
+      <guid>/hpc-web-test/support/compilers/</guid>
       <description>We have several compiler environments on the cluster. Many are interdependent.
 GCC The preferred and default compiler on the cluster is GCC, the GNU Compiler Chain.
 The MPI compiler chain A wrapper around GCC for compiling programs for use in an MPI environment.
@@ -114,20 +114,20 @@ Say there’s a file in a folder named chug.c. From that folder in the command l
     
     <item>
       <title>Infiniband</title>
-      <link>/research-computing-group/support/infiniband/</link>
+      <link>/hpc-web-test/support/infiniband/</link>
       <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/research-computing-group/support/infiniband/</guid>
+      <guid>/hpc-web-test/support/infiniband/</guid>
       <description>InfiniBand is a switched fabric communications link that is used in high-performance computing. For more detailed information visit the Wikipedia page.
 This is available on the nodes listed below. These nodes have access to the /mnt/xfs network share. This is space large file storage and scratch space on the nodes. All users have rights to create directories on this share. Please note that /mnt/xfs is not backed up on a nightly basis.</description>
     </item>
     
     <item>
       <title>Multiple Versions of Python</title>
-      <link>/research-computing-group/support/python-versions/</link>
+      <link>/hpc-web-test/support/python-versions/</link>
       <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/research-computing-group/support/python-versions/</guid>
+      <guid>/hpc-web-test/support/python-versions/</guid>
       <description>There are a few reasons you may need a different version of Python. You may need a newer version of Python or need multiple modules installed. This can be accomplished with pyenv.
 This can be installed in your /home directory by following the instructions below.
 1.&amp;nbsp;&amp;nbsp;Cut and paste the following code to your command prompt.
@@ -136,10 +136,10 @@ curl -L https://raw.github.com/yyuu/pyenv-installer/master/bin/pyenv-installer |
     
     <item>
       <title>R Language</title>
-      <link>/research-computing-group/support/r-language/</link>
+      <link>/hpc-web-test/support/r-language/</link>
       <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/research-computing-group/support/r-language/</guid>
+      <guid>/hpc-web-test/support/r-language/</guid>
       <description>We currently have modules for R 3.0.0, R 3.1.2, and R 3.2.0
 Installing Modules
 Starting command line R
@@ -151,10 +151,10 @@ Parallel R</description>
     
     <item>
       <title>Running Jobs on the Cluster</title>
-      <link>/research-computing-group/support/running-cluster/</link>
+      <link>/hpc-web-test/support/running-cluster/</link>
       <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/research-computing-group/support/running-cluster/</guid>
+      <guid>/hpc-web-test/support/running-cluster/</guid>
       <description>Running Applications on Apex
 Most of the jobs on Apex will be run via the scheduler SLURM. The scheduler will take care of most of the logistics of where the job is run etc.
 If you are new to SLURM, the SLURM 101 tutorial is a good place to start. This will show you how to write a basic job script and submit it to the scheduler. Partitions:
@@ -163,10 +163,10 @@ A partition is the same thing as a job queue on Apex.</description>
     
     <item>
       <title>SAS, SPSS, and ATLAS.ti</title>
-      <link>/research-computing-group/support/sas-spss-atlas/</link>
+      <link>/hpc-web-test/support/sas-spss-atlas/</link>
       <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/research-computing-group/support/sas-spss-atlas/</guid>
+      <guid>/hpc-web-test/support/sas-spss-atlas/</guid>
       <description>These powerful analytic programs have been made available for faculty and students by Saint Louis University
 SAS
 Available for university purposes on University-owned or personal machines
@@ -175,10 +175,10 @@ Each computer will need its own yearly subscription:  The subscription runs from
     
     <item>
       <title>SLURM Commands</title>
-      <link>/research-computing-group/slurm/slurm-commands/</link>
+      <link>/hpc-web-test/slurm/slurm-commands/</link>
       <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/research-computing-group/slurm/slurm-commands/</guid>
+      <guid>/hpc-web-test/slurm/slurm-commands/</guid>
       <description>SLURM is the job scheduler that we are using on Apex. This allows jobs to be run on a node. How the jobs starts, runs, and completes is normally dictated by a script.
 More detailed information and tutorials can be found at SLURM information page. Please also read the F.A.Q below. before
 Note : We have listed the most commonly used commands below. Futher
@@ -187,20 +187,20 @@ Useful SLURM Commands Here is a list of the most common SLURM commands.</descrip
     
     <item>
       <title>Storage</title>
-      <link>/research-computing-group/support/storage/</link>
+      <link>/hpc-web-test/support/storage/</link>
       <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/research-computing-group/support/storage/</guid>
+      <guid>/hpc-web-test/support/storage/</guid>
       <description>Your home directory is backed up nightly on kepler. Currently, we don&amp;rsquo;t impose a disk quota. There are many users on both systems and we do have limited space, so we ask that you delete files that you are not using.
 There is space on kepler for large file storage and scratch space on the nodes. The path to the space is /mnt/xfs/ and /xfs2 . You can create your own directory there.</description>
     </item>
     
     <item>
       <title>Hardware</title>
-      <link>/research-computing-group/apex/hardware/</link>
+      <link>/hpc-web-test/apex/hardware/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/research-computing-group/apex/hardware/</guid>
+      <guid>/hpc-web-test/apex/hardware/</guid>
       <description>Listed below are the hardware specifications for our HPC cluster.
 100 compute nodes with Intel processors. 20 newest nodes have Intel Xeon E5-2690 v3 @ 2.60GHz processors. 10 high memory nodes with 500GB of RAM. Head node: Dell PowerEdge R720, Intel Xeon E5-2670 v2 @ 2.50GHz processors, access to 117TB InfiniBand connected storage volume. 2 GPU nodes 117TB InfiniBand connected network storage. InfiniBand connections to 40 compute nodes with dedicated IB switchOver 3000 available CPU processing cores, and over 1,700 CUDA GPU cores Bright Cluster Manager SLURM is used for job scheduling.</description>
     </item>

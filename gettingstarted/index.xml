@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Getting Started on Slu HPC Website</title>
-    <link>/research-computing-group/gettingstarted/</link>
+    <link>/hpc-web-test/gettingstarted/</link>
     <description>Recent content in Getting Started on Slu HPC Website</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="/research-computing-group/gettingstarted/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/hpc-web-test/gettingstarted/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

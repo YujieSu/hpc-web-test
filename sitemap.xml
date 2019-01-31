@@ -3,152 +3,152 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/research-computing-group/getting-started/ftp/</loc>
+    <loc>/hpc-web-test/getting-started/ftp/</loc>
     <lastmod>2019-01-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/research-computing-group/gettingstarted/</loc>
+    <loc>/hpc-web-test/gettingstarted/</loc>
   </url>
   
   <url>
-    <loc>/research-computing-group/getting-started/ssh/</loc>
+    <loc>/hpc-web-test/getting-started/ssh/</loc>
     <lastmod>2019-01-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/research-computing-group/getting-started/vpn/</loc>
+    <loc>/hpc-web-test/getting-started/vpn/</loc>
     <lastmod>2019-01-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/research-computing-group/getting-started/vnc/</loc>
+    <loc>/hpc-web-test/getting-started/vnc/</loc>
     <lastmod>2019-01-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/research-computing-group/getting-started/vnc_subpage/</loc>
+    <loc>/hpc-web-test/getting-started/vnc_subpage/</loc>
     <lastmod>2019-01-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/research-computing-group/slurm/slurm-examples/</loc>
+    <loc>/hpc-web-test/slurm/slurm-examples/</loc>
     <lastmod>2019-03-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/research-computing-group/apex/apex/</loc>
+    <loc>/hpc-web-test/apex/apex/</loc>
     <lastmod>2019-01-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/research-computing-group/support/application-installation/</loc>
+    <loc>/hpc-web-test/support/application-installation/</loc>
     <lastmod>2019-01-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/research-computing-group/support/compilers/</loc>
+    <loc>/hpc-web-test/support/compilers/</loc>
     <lastmod>2019-01-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/research-computing-group/support/infiniband/</loc>
+    <loc>/hpc-web-test/support/infiniband/</loc>
     <lastmod>2019-01-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/research-computing-group/support/python-versions/</loc>
+    <loc>/hpc-web-test/support/python-versions/</loc>
     <lastmod>2019-01-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/research-computing-group/support/r-language/</loc>
+    <loc>/hpc-web-test/support/r-language/</loc>
     <lastmod>2019-01-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/research-computing-group/support/running-cluster/</loc>
+    <loc>/hpc-web-test/support/running-cluster/</loc>
     <lastmod>2019-01-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/research-computing-group/support/sas-spss-atlas/</loc>
+    <loc>/hpc-web-test/support/sas-spss-atlas/</loc>
     <lastmod>2019-01-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/research-computing-group/slurm/slurm-commands/</loc>
+    <loc>/hpc-web-test/slurm/slurm-commands/</loc>
     <lastmod>2019-01-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/research-computing-group/support/storage/</loc>
+    <loc>/hpc-web-test/support/storage/</loc>
     <lastmod>2019-01-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/research-computing-group/contact/</loc>
+    <loc>/hpc-web-test/contact/</loc>
     <lastmod>2018-12-27T09:10:27+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/research-computing-group/apex/</loc>
+    <loc>/hpc-web-test/apex/</loc>
     <lastmod>2019-01-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/research-computing-group/categories/</loc>
+    <loc>/hpc-web-test/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/research-computing-group/faq/</loc>
+    <loc>/hpc-web-test/faq/</loc>
   </url>
   
   <url>
-    <loc>/research-computing-group/getting-started/</loc>
+    <loc>/hpc-web-test/getting-started/</loc>
     <lastmod>2019-01-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/research-computing-group/apex/hardware/</loc>
+    <loc>/hpc-web-test/apex/hardware/</loc>
   </url>
   
   <url>
-    <loc>/research-computing-group/qmon-tutorial/</loc>
+    <loc>/hpc-web-test/qmon-tutorial/</loc>
   </url>
   
   <url>
-    <loc>/research-computing-group/</loc>
+    <loc>/hpc-web-test/</loc>
     <lastmod>2019-01-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/research-computing-group/slurm/</loc>
+    <loc>/hpc-web-test/slurm/</loc>
     <lastmod>2019-03-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/research-computing-group/a-support/</loc>
+    <loc>/hpc-web-test/a-support/</loc>
   </url>
   
   <url>
-    <loc>/research-computing-group/support/</loc>
+    <loc>/hpc-web-test/support/</loc>
     <lastmod>2019-01-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/research-computing-group/tags/</loc>
+    <loc>/hpc-web-test/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/research-computing-group/about/</loc>
+    <loc>/hpc-web-test/about/</loc>
   </url>
   
 </urlset>
