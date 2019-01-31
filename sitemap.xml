@@ -117,16 +117,7 @@
   </url>
   
   <url>
-    <loc>/hpc-web-test/qmon-tutorial/qmon-tutorial/</loc>
-  </url>
-  
-  <url>
-    <loc>/hpc-web-test/support/qmon-tutorial/</loc>
-  </url>
-  
-  <url>
     <loc>/hpc-web-test/qmon-tutorial/</loc>
-    <priority>0</priority>
   </url>
   
   <url>

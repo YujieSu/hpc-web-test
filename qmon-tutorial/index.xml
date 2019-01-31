@@ -1,27 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Qmon-tutorials on Slu HPC Website</title>
+    <title>Qmon Tutorial on Slu HPC Website</title>
     <link>/hpc-web-test/qmon-tutorial/</link>
-    <description>Recent content in Qmon-tutorials on Slu HPC Website</description>
+    <description>Recent content in Qmon Tutorial on Slu HPC Website</description>
     <generator>Hugo -- gohugo.io</generator>
     
 	<atom:link href="/hpc-web-test/qmon-tutorial/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Qmon Tutorial</title>
-      <link>/hpc-web-test/qmon-tutorial/qmon-tutorial/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/hpc-web-test/qmon-tutorial/qmon-tutorial/</guid>
-      <description>QMON Tutorial 
-MON is the graphical user interface tool (GUI) that allows you to accomplish most Grid Engine system tasks. To use QMON simply type qmon at the command line.
-If you are connected to the ATG cluster via SSH, use the following command when starting SSH.
-SSH - X username @rocks64sluedu.
-The -X switch allows X windows to open.
-When you launch QMON you will see the following.</description>
-    </item>
     
   </channel>
 </rss>
