@@ -205,5 +205,33 @@ There is space on kepler for large file storage and scratch space on the nodes. 
 100 compute nodes with Intel processors. 20 newest nodes have Intel Xeon E5-2690 v3 @ 2.60GHz processors. 10 high memory nodes with 500GB of RAM. Head node: Dell PowerEdge R720, Intel Xeon E5-2670 v2 @ 2.50GHz processors, access to 117TB InfiniBand connected storage volume. 2 GPU nodes 117TB InfiniBand connected network storage. InfiniBand connections to 40 compute nodes with dedicated IB switchOver 3000 available CPU processing cores, and over 1,700 CUDA GPU cores Bright Cluster Manager SLURM is used for job scheduling.</description>
     </item>
     
+    <item>
+      <title>Qmon Tutorial</title>
+      <link>/hpc-web-test/qmon-tutorial/qmon-tutorial/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/hpc-web-test/qmon-tutorial/qmon-tutorial/</guid>
+      <description>QMON Tutorial 
+MON is the graphical user interface tool (GUI) that allows you to accomplish most Grid Engine system tasks. To use QMON simply type qmon at the command line.
+If you are connected to the ATG cluster via SSH, use the following command when starting SSH.
+SSH - X username @rocks64sluedu.
+The -X switch allows X windows to open.
+When you launch QMON you will see the following.</description>
+    </item>
+    
+    <item>
+      <title>Qmon Tutorial</title>
+      <link>/hpc-web-test/support/qmon-tutorial/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/hpc-web-test/support/qmon-tutorial/</guid>
+      <description>QMON Tutorial 
+MON is the graphical user interface tool (GUI) that allows you to accomplish most Grid Engine system tasks. To use QMON simply type qmon at the command line.
+If you are connected to the ATG cluster via SSH, use the following command when starting SSH.
+SSH - X username @rocks64sluedu.
+The -X switch allows X windows to open.
+When you launch QMON you will see the following.</description>
+    </item>
+    
   </channel>
 </rss>

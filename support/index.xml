@@ -104,5 +104,19 @@ Each computer will need its own yearly subscription:  The subscription runs from
 There is space on kepler for large file storage and scratch space on the nodes. The path to the space is /mnt/xfs/ and /xfs2 . You can create your own directory there.</description>
     </item>
     
+    <item>
+      <title>Qmon Tutorial</title>
+      <link>/hpc-web-test/support/qmon-tutorial/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/hpc-web-test/support/qmon-tutorial/</guid>
+      <description>QMON Tutorial 
+MON is the graphical user interface tool (GUI) that allows you to accomplish most Grid Engine system tasks. To use QMON simply type qmon at the command line.
+If you are connected to the ATG cluster via SSH, use the following command when starting SSH.
+SSH - X username @rocks64sluedu.
+The -X switch allows X windows to open.
+When you launch QMON you will see the following.</description>
+    </item>
+    
   </channel>
 </rss>
